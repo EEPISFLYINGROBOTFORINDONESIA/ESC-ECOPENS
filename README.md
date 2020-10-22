@@ -1,1 +1,3 @@
 # ESC-ECOPENS
+
+Firmware for ECOPENS ESC
